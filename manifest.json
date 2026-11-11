@@ -1,0 +1,23 @@
+{
+  "name": "Happy Birthday Gauri",
+  "short_name": "Happy Birthday Gauri",
+  "description": "Happy Birthday Gauri 💕",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fff0f5",
+  "theme_color": "#e91e63",
+  "icons": [
+    {
+      "src": "./files/image4.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./files/image4.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
